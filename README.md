@@ -18,17 +18,15 @@ CS先修课：C，C++，算法，数据结构，操作系统，数据库，计�
 
 录取结果：
 ```
-AD: Columbia MSCS(Accept), Brown MSCS, CMU MSIT-MOB, Gatech CSE(COC), Rice MCS&MCSE, UCSD MLDS, Duke ECE, UVA MCS, UChicago MPCS, NEU MSCS
+AD: Columbia MSCS(Accept), Brown MSCS, CMU MSIT-MOB, Gatech CSE(COC), Rice MCS&MCSE, UCSD MLDS, Duke ECE, UVA MCS, UChicago MPCS, NEU MSCS, UCSD CSME
 
-REJ: UIUC MCS, GaTech MSCS, CMU SV-SE, UCSD MSCS, Dartmouth MSCS, UCI MCS, CMU MISM-BIDA
-
-PENDING: UT ECE-SES, UCSD CSME
+REJ: UIUC MCS, GaTech MSCS, CMU SV-SE, UCSD MSCS, Dartmouth MSCS, UCI MCS, CMU MISM-BIDA, UT ECE-SES
 ```
 
 最终结果还是比较满意的，下面就几个方面说说自己的经验教训，如有不妥，敬请批评指正哈~
 
-##一、申请准备
-###1、GPA（Transcript）
+## 一、申请准备
+### 1、GPA（Transcript）
 对于绝大多数CS项目而言，GPA是所有申请条件中最重要的一项（没有之一）。我感觉自己还不错的申请结果也大都因为GPA比较好看。当然，GPA包含了许多方面，而不仅仅是成绩单最后的那个数字。哥大工学院院长来我校宣讲时说过，GPA包含了四个方面：本科学校、相关课程成绩、成绩趋势、总成绩。由于本科学校基本难以改变，我们能提升的只有后三个方面：
 
 相关课成绩：对于转专业申请，有没有先修课、先修课多少分都对申请至关重要，对绝大多数CS项目，prerequisites出现最多的是：一门编程（OOP）、算法、数据结构、离散数学。这是四门最基本的课(比如哥大、ucsd、brown等都有要求)，除此之外，线性代数、概率论、数据库、操作系统、计算机网络、计算机体系结构、计算机组成原理等也经常作为prefer的课程。建议在保证满足基本要求上尽可能多修CS课程，同时根据具体学校的要求进行调整。
@@ -37,16 +35,16 @@ PENDING: UT ECE-SES, UCSD CSME
 
 总成绩：从今年的申请结果来看，总GPA往往决定了申请的基本水平。有些申请人众多的学校更是直接关注总GPA，比较GPA控的学校比如几个藤校、加州学校（尤其USC）等等，相对而言，CMU更看重背景是否match，好像并不是那么看重GPA。
 
-###2、GRE & TOEFL
+### 2、GRE & TOEFL
 GT的备考经验贴地里已经很多了，这里只谈谈其重要性。
 
 对绝大多数学校而言，GT的重要程度不如GPA，但是一个filter，因此我们需要掌握申请学校GT的最低要求。例如brown的T要求105+，今年貌似没有低于这个分数被录取的。哥大来我校宣讲时说G需要V153+，Q167+，T最好能在102及以上等等。这些GT要求一般在官网上说的很清楚。推荐申请CS的同学在时间允许的情况下GT达到325（3.5）+105（23），转专业的同学最好能330+110，这样就基本不用担心因为GT被筛了（大S等超级牛校除外）。
 
-###3、软背景
+### 3、软背景
 
 因为我自己的软背景实在不怎么样，所以对于科研和实习都没有什么高见。只是要建议转专业的同学尽量积累cs相关的科研与实习，最好能做一段暑研并拿到推荐信，这样将来PS\CV会好写很多，申方向match的项目（如cmu scs下的项目）会更有优势。
 
-##二、选校
+## 二、选校
 
 选校是申请的重中之重，如果没有合适的选校很可能错失进入梦校的机会或者全聚德，我自己感觉选校有如下几个方法：
 
@@ -110,7 +108,7 @@ GT的备考经验贴地里已经很多了，这里只谈谈其重要性。
 
 （20）NEU：同样是地里的热门校，感觉发录取很随意而且bar很迷。现在用他家保底并不稳。提供Align这个转专业项目，且不要申请费和送分费（我就是先申的align，自动被调到了general CS，不用花钱美滋滋）。因为有coop政策，所以很适合就业。
 
-##三、对明年申请季同学的建议
+## 三、对明年申请季同学的建议
 
 1、早做准备，早考gt，要知道如果没有实习或科研不一定被拒，gt不过线一定会被拒（大牛除外）
 
